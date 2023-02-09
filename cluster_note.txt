@@ -1,0 +1,2 @@
+tried running on databricks but ran into account problems. 
+try making a account on databricks and create a cluster and use apache spark.
